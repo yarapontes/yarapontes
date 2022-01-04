@@ -1,16 +1,19 @@
 ### Olá! Seja bem vinda(o) ao meu perfil 🌈
 
-Estou iniciando na área de tecnologia como desenvolvedora web 👩‍💻🤓
-
-<div align="center">
+  ##
+  
+<div align="center">  
   <a href="https://github.com/yarapontes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yarapontes&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarapontes&layout=compact&langs_count=7&theme=aura_dark" />
 </div>
+  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Yara-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Yara-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yara-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Yara-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+  
 </div>
   
   ##
