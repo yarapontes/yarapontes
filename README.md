@@ -2,10 +2,10 @@
 
 ##
 
-<div align="left">  
+<div align="center">  
   <a href="https://github.com/yarapontes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yarapontes&show_icons=true&theme=jolly&include_all_commits=true&count_private=false"/>
-  <img align="right" alt="Yara-pic" height="180" style="border-radius:50px;" src="https://user-images.githubusercontent.com/71138909/148093965-2e09fc4c-3caa-49d5-b58d-c302402955cd.png">
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=yarapontes&show_icons=true&theme=jolly&include_all_commits=true&count_private=false"/>
+  <img align="center" alt="pc-cat" height="220" style="border-radius:50px;" src="https://user-images.githubusercontent.com/71138909/148093965-2e09fc4c-3caa-49d5-b58d-c302402955cd.png">
 </div>
 
   
