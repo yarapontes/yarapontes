@@ -1,11 +1,16 @@
 ### Olá! Seja bem vinda(o) ao meu perfil 🌈
 
+##
+![gif](https://user-images.githubusercontent.com/71138909/148079444-c4f7f745-df12-439b-babc-d125deaf6205.png)
+
 <div align="left">  
   <a href="https://github.com/yarapontes">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=yarapontes&show_icons=true&theme=jolly&include_all_commits=true&count_private=false"/>
     <img align="right" alt="Yara-pic" height="130" style="border-radius:50px;" src="https://drive.google.com/file/d/1oJkE_bpgZvYH_fKWX9qLsF7IAuG1XCrI/view?usp=sharing">
 </div>
   
+  ##
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Yara-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yara-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
