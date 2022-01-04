@@ -1,5 +1,7 @@
 ### Olá! Seja bem vinda(o) ao meu perfil 🌈
  
+ #
+
 <div align="left">  
   <a href="https://github.com/yarapontes">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yarapontes&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=false"/>
@@ -16,7 +18,7 @@
   
 </div>
   
-  ##
+  #
   
  <div>
    <a href="https://www.linkedin.com/in/yarapontesds" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
