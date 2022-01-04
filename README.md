@@ -1,6 +1,4 @@
 ### Olá! Seja bem vinda(o) ao meu perfil 🌈
- 
-  #
 
 <div align="left">  
   <a href="https://github.com/yarapontes">
