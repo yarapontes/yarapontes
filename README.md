@@ -1,10 +1,10 @@
 ### Olá! Seja bem vinda(o) ao meu perfil 🌈
  
- #
+  #
 
 <div align="left">  
   <a href="https://github.com/yarapontes">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yarapontes&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=false"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=yarapontes&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=false"/>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarapontes&layout=compact&langs_count=7&theme=aura_dark"/>
 </div>
   
