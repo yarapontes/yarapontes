@@ -2,7 +2,8 @@
 
 <div align="left">  
   <a href="https://github.com/yarapontes">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=yarapontes&show_icons=true&theme=jolly&include_all_commits=true&count_private=false"/>  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=yarapontes&show_icons=true&theme=jolly&include_all_commits=true&count_private=false"/>
+    <img align="right" alt="Yara-pic" height="130" style="border-radius:50px;" src="https://drive.google.com/file/d/1oJkE_bpgZvYH_fKWX9qLsF7IAuG1XCrI/view?usp=sharing">
 </div>
   
 <div style="display: inline_block"><br>
