@@ -2,8 +2,7 @@
 
 <div align="left">  
   <a href="https://github.com/yarapontes">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=yarapontes&show_icons=true&theme=aura&include_all_commits=true&count_private=false"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarapontes&layout=compact&theme=aura"/>  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=yarapontes&show_icons=true&theme=aura&include_all_commits=true&count_private=false"/>  
 </div>
   
 <div style="display: inline_block"><br>
