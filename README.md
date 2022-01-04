@@ -5,8 +5,9 @@
 <div align="left">  
   <a href="https://github.com/yarapontes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yarapontes&show_icons=true&theme=jolly&include_all_commits=true&count_private=false"/>
-    <img align="right" alt="Yara-pic" height="180" style="border-radius:50px;" src="https://user-images.githubusercontent.com/71138909/148079444-c4f7f745-df12-439b-babc-d125deaf6205.png">
+  <img align="right" alt="Yara-pic" height="180" style="border-radius:50px;" src="https://user-images.githubusercontent.com/71138909/148092021-16825ee9-ae07-47fb-8e44-29e0aa690b9c.jpg">
 </div>
+
   
   ##
 
